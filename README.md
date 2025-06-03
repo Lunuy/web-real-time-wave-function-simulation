@@ -5,4 +5,5 @@
 
 - The wall is teto-textured.
 
-![](./assets/video.mp4)
+https://github.com/user-attachments/assets/8c65d257-75a8-4266-ada0-7babb3f8cb76
+
